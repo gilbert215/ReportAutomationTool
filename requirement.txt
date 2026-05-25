@@ -1,0 +1,7 @@
+groq
+gspread
+google-auth
+google-auth-oauthlib
+requests
+requests-oauthlib
+oauthlib
