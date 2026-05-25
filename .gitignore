@@ -1,0 +1,16 @@
+# Credentials and Keys
+credentials.json
+*.pem
+
+# Environment Variables (if you use a .env file)
+.env
+
+# Python environment files
+miniconda3/
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Logs
+report_log.txt
