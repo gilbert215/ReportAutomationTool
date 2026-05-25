@@ -88,3 +88,12 @@ Change the Recipient: Modify the RECIPIENT = "teacher@example.com" string inside
 Adjust Performance Thresholds: Change the filtering integer (< 60 or >= 85) located inside the process_student_data calculation blocks.
 
 Update Model Selection: Swap out model="llama-3.3-70b-versatile" for other supported models like llama-3.1-8b-instant.
+
+
+To open the script
+
+nano report_generator.py
+
+To learn the automation
+
+python report_generator.py
