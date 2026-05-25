@@ -97,3 +97,10 @@ nano report_generator.py
 To learn the automation
 
 python report_generator.py
+
+Api key error fix
+
+(base) gib@STUDENT-17:~$ export GROQ_API_KEY="grok Api key"
+(base) gib@STUDENT-17:~$ export GMAIL_ADDRESS="urinzwenimanagilbert39@gmail.com"
+(base) gib@STUDENT-17:~$ export GMAIL_APP_PASSWORD=" fvex iekg qgvy jzyk"
+(base) gib@STUDENT-17:~$ python  report_generator.py
