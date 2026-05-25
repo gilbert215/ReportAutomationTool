@@ -69,7 +69,7 @@ Make sure the script has permission to execute:
 
 Bash
 chmod +x run_report.sh
-⏰ Cron Automation
+Cron Automation
 To tie the automation string loop together seamlessly, register your bash engine file directly within the system crontab scheduler:
 
 Bash
